@@ -34,3 +34,9 @@ Bu proje, ev otomasyonu sistemlerinde sesli komut işleme ve endüstriyel tetikl
 ---
 
 ### 🎥 Proje Demo
+
+
+
+https://github.com/user-attachments/assets/b277a898-39a8-4be2-88ea-22224d160994
+
+

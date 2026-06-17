@@ -28,3 +28,11 @@ Bu proje, ses tetiklemeli bir kontrol sistemi prototipidir. Mikrofon sensöründ
 - Adaptive threshold
 - Moving average filtre
 - PWM ile ses şiddetine göre parlaklık kontrolü
+
+- 🎥 Proje Demo
+Projenin çalışma videosunu aşağıdan izleyebilirsiniz.
+
+
+https://github.com/user-attachments/assets/4fc10618-45ed-4bd7-b765-5fb663c96ab2
+
+

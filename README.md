@@ -30,6 +30,7 @@ Bu proje, ses tetiklemeli bir kontrol sistemi prototipidir. Mikrofon sensöründ
 - PWM ile ses şiddetine göre parlaklık kontrolü
 
 - 🎥 Proje Demo
+  
 Projenin çalışma videosunu aşağıdan izleyebilirsiniz.
 
 

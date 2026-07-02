@@ -28,7 +28,7 @@ Bu proje, ses tetiklemeli bir kontrol sistemi prototipidir. Mikrofon sensöründ
 
 ***Not***
 
-PCB tasarımı esnasında fark ettiğim bir eksiğim de şu oldu, analog veya dijital binleri arduino üzerine rastgele yerleştirmemek çünkü trace çekerken zorlanmama sebep oluyor.Ayrıca bu projenin pcb tasarımında gnd bakır düzlemini (GND Plane) kullandım.
+Projenin USB C 2.0 kullanılarak yapılacak halinin pcb tasarımı ve gerekli gerber dosyaları yüklendi. PCB tasarımı esnasında fark ettiğim bir eksiğim de şu oldu, analog veya dijital binleri arduino üzerine rastgele yerleştirmemek çünkü trace çekerken zorlanmama sebep oluyor.Ayrıca bu projenin pcb tasarımında gnd bakır düzlemini (GND Plane) kullandım.
 
 - 🎥 Proje Demo
   

@@ -1,15 +1,15 @@
-🔊 Sound Activated Logic Controller
+***Sound Activated Logic Controller***
 
 Bu proje, ses tetiklemeli bir kontrol sistemi prototipidir. Mikrofon sensöründen alınan sinyal işlenerek, alkış gibi ani seslere göre LED'ler farklı durumlara geçirilir.
 
-🛠️ Donanım
+***Donanım***
 - Arduino Uno
 - Sound Sensor (mikrofon modülü)(FC-04)
 - Kırmızı, Sarı, Yeşil LED'ler
 
 ---
 
-⚙️ Nasıl Çalışır?
+***Nasıl Çalışır?***
 - Sensörden gelen analog değer okunur
 - Belirlenen threshold değeri aşılırsa tetikleme oluşur
 - Yanlış tetiklemeleri azaltmak için 200ms debounce uygulanır
@@ -19,9 +19,8 @@ Bu proje, ses tetiklemeli bir kontrol sistemi prototipidir. Mikrofon sensöründ
 
 ---
 
-💡 Geliştirme Fikirleri
+***Geliştirme Fikirleri***
 - Adaptive threshold
-- Moving average filtre
 - PWM ile ses şiddetine göre parlaklık kontrolü
 
 ---
